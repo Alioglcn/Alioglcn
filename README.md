@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭I'm student of Computer Engineer with a passion Data Science and Artificial Intelligence<br>🌱Data Scientist Candidate<br>📫 Shoot me an Email or add me on LinkedIn :) 
+🔭I'm a student of Computer Engineering with a passion Data Science and Artificial Intelligence<br>🌱Data Scientist Candidate<br>📫 Shoot me an Email or add me on LinkedIn :) 
 
 
 ## 🌐 Socials:
